@@ -25,4 +25,68 @@ The challenge was to transform raw, fragmented data into structured insights tha
 
 - **Website Analytics:** Traffic sources, devices, conversion, bounce, abandonment
 
-Product Images: Pinterest URLs for product visualization
+- **Product Images:** Pinterest URLs for product visualization
+
+# Preparation Steps:
+
+- Removed duplicates and standardized formats
+
+- Validated data types and segmented numerical values
+
+- Created calculated columns (e.g., discount %, MoM growth, YoY variance)
+
+- Built a clean, structured dataset ready for modeling and visualization
+
+# Data Modeling & DAX Measures
+I designed a star schema with a central Fact Table (Sales & Transactions) and supporting Dimension Tables (Customers, Website, Date, Product Images). 
+Relationships enabled seamless filtering and cross-analysis across dashboards.
+
+## Key DAX Measures:
+
+- **Anchor Metrics:** Total Revenue, Quantity Sold, Avg Order Value, Conversion Rate
+
+- **Time Intelligence:** Month-over-Month Growth, YTD vs PYTD Revenue
+
+- **Variance Measures:** Revenue YoY %, Customer Growth MoM %, Units Sold MoM %
+
+# Dashboard Design & Insights
+
+**Sales Performance:**
+
+- **Total Revenue:** **$221.6M** | Avg Order Value: **$221.6K**
+
+- **Top Locations:** Kano ($52M), Abuja **($47M)**, Enugu **($42M)**
+
+- **Top Products:** Gaming Console ($57M), Laptop **($50M)**, Camera **($41M)**
+
+- **Revenue YoY decline:** **-69%** → signals over-reliance on a few high-performing regions and products
+
+**Customer Insights:**
+
+- **Total Customers:** **1,000** | Active Customers: **286**
+
+- Repeat purchases concentrated among top customers (e.g., C293)
+
+- Gender distribution includes the “Others” category for inclusivity
+
+- **Growth months:** July and November showed spikes in new customer acquisition
+
+**Website Insights:**
+
+- **Conversion Rate:** **41.1%** | Abandonment Rate: **49.9%** | Bounce Rate: **11.6%**
+
+- Referral and Google Ads are the most effective traffic sources
+
+- Desktop and mobile usage are evenly split
+
+- High drop-off during checkout suggests friction in the final purchase stage
+
+# Recommendations
+As a Data Analyst, I would recommend that SwiftMart prioritize Kano and Abuja for regional campaigns, as they consistently generate high revenue. I would suggest bundling top-performing products, such as gaming consoles, with accessories to increase average order value and encourage upselling. Given the sharp YoY revenue decline, I would advise management to investigate pricing strategies, promotional timing, and product fatigue in key categories.
+
+For **customer engagement**, I would recommend launching loyalty programs targeting repeat buyers and designing personalized offers based on purchase history. I suggest reactivating inactive customers through targeted email campaigns, especially during high-growth months like **July and November**.
+
+On the **website front**, I would recommend optimizing the checkout experience to reduce abandonment and tailoring landing pages for mobile and desktop users. Since referral and Google Ads drive strong conversions, I would advise doubling down on those channels while testing new ones for diversification.
+
+# Conclusion
+This project was a rewarding opportunity to apply my data analytics skills in a real-world business context. From cleaning and modeling the data to building interactive dashboards and generating insights, I was able to uncover patterns that matter, revenue concentration, customer loyalty, and digital engagement gaps. The experience reinforced the importance of structured analysis and storytelling in driving business decisions. I am proud of the work I completed and confident that these insights can help SwiftMart or any e-commerce brand grow smarter and faster through data-driven strategies.
