@@ -61,6 +61,8 @@ Relationships enabled seamless filtering and cross-analysis across dashboards.
 
 - **Revenue YoY decline:** **-69%** → signals over-reliance on a few high-performing regions and products
 
+**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmYxNTZmNjItYTEyZi00NWQyLTg4NjAtNjE1YzI0M2VhMjRhIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+
 **Customer Insights:**
 
 - **Total Customers:** **1,000** | Active Customers: **286**
