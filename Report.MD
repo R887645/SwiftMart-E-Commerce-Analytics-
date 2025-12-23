@@ -61,7 +61,8 @@ Relationships enabled seamless filtering and cross-analysis across dashboards.
 
 - **Revenue YoY decline:** **-69%** → signals over-reliance on a few high-performing regions and products
 
-**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmYxNTZmNjItYTEyZi00NWQyLTg4NjAtNjE1YzI0M2VhMjRhIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+![My image description](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-/blob/main/The%20real%20sales%20dashboard.png?raw=true)
+
 
 **Customer Insights:**
 
@@ -73,6 +74,8 @@ Relationships enabled seamless filtering and cross-analysis across dashboards.
 
 - **Growth months:** July and November showed spikes in new customer acquisition
 
+![My image description](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-/blob/main/REAL%20Customer%20dasboard%201.png?raw=true)
+
 **Website Insights:**
 
 - **Conversion Rate:** **41.1%** | Abandonment Rate: **49.9%** | Bounce Rate: **11.6%**
@@ -83,6 +86,8 @@ Relationships enabled seamless filtering and cross-analysis across dashboards.
 
 - High drop-off during checkout suggests friction in the final purchase stage
 
+![My image description](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-/blob/main/real%20website%20analysis.png?raw=true)
+
 # Recommendations
 As a Data Analyst, I would recommend that SwiftMart prioritize Kano and Abuja for regional campaigns, as they consistently generate high revenue. I would suggest bundling top-performing products, such as gaming consoles, with accessories to increase average order value and encourage upselling. Given the sharp YoY revenue decline, I would advise management to investigate pricing strategies, promotional timing, and product fatigue in key categories.
 
@@ -92,3 +97,6 @@ On the **website front**, I would recommend optimizing the checkout experience t
 
 # Conclusion
 This project was a rewarding opportunity to apply my data analytics skills in a real-world business context. From cleaning and modeling the data to building interactive dashboards and generating insights, I was able to uncover patterns that matter, revenue concentration, customer loyalty, and digital engagement gaps. The experience reinforced the importance of structured analysis and storytelling in driving business decisions. I am proud of the work I completed and confident that these insights can help SwiftMart or any e-commerce brand grow smarter and faster through data-driven strategies.
+
+**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmYxNTZmNjItYTEyZi00NWQyLTg4NjAtNjE1YzI0M2VhMjRhIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+
