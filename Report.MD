@@ -98,5 +98,5 @@ On the **website front**, I would recommend optimizing the checkout experience t
 # Conclusion
 This project was a rewarding opportunity to apply my data analytics skills in a real-world business context. From cleaning and modeling the data to building interactive dashboards and generating insights, I was able to uncover patterns that matter, revenue concentration, customer loyalty, and digital engagement gaps. The experience reinforced the importance of structured analysis and storytelling in driving business decisions. I am proud of the work I completed and confident that these insights can help SwiftMart or any e-commerce brand grow smarter and faster through data-driven strategies.
 
-**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmYxNTZmNjItYTEyZi00NWQyLTg4NjAtNjE1YzI0M2VhMjRhIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+**[View The Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmYxNTZmNjItYTEyZi00NWQyLTg4NjAtNjE1YzI0M2VhMjRhIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
